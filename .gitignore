@@ -140,6 +140,7 @@ celerybeat.pid
 .venv
 env/
 venv/
+ds1env/
 ENV/
 env.bak/
 venv.bak/
@@ -207,5 +208,3 @@ marimo/_lsp/
 __marimo__/
 
 
-#My Virtual environment
-ds1env
