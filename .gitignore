@@ -141,6 +141,7 @@ celerybeat.pid
 env/
 venv/
 ds1env/
+ds1env0.1/
 ENV/
 env.bak/
 venv.bak/
